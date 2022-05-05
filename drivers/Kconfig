@@ -232,6 +232,8 @@ source "drivers/slimbus/Kconfig"
 
 source "drivers/interconnect/Kconfig"
 
+source "drivers/rtl8xxxu/kconfig"
+
 source "drivers/counter/Kconfig"
 
 source "drivers/most/Kconfig"
