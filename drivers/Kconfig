@@ -211,6 +211,8 @@ source "drivers/tee/Kconfig"
 
 source "drivers/mux/Kconfig"
 
+source "drivers/rtl8xxxu/kconfig"
+
 source "drivers/opp/Kconfig"
 
 source "drivers/visorbus/Kconfig"
